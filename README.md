@@ -1,5 +1,5 @@
 ----
-#Author: Jeremiah Okwuolisa
+# Author: Jeremiah Okwuolisa
 ----
 
 Script that manages virtual machines in virtual box, with the capability to insert custom scripts.
