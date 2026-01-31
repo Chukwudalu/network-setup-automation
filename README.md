@@ -1,10 +1,8 @@
 ----
-Author: Wolf-569
+#Author: Jeremiah Okwuolisa
 ----
 
 Script that manages virtual machines in virtual box, with the capability to insert custom scripts.
-
-All to do an exam faster
 
 
 Custom scripts placed inside scripts/ directory
